@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Macbook/Desktop/Codeforces
+CMake Error at CMakeLists.txt:7 (add_executable):
+  add_executable called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles/CMakeOutput.log".
