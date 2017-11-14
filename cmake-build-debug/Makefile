@@ -123,32 +123,32 @@ Codeforces/fast:
 	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-QuickSort/QuickSort.o: QuickSort/QuickSort.cpp.o
+QuickSort/OptimizedQuickSort.o: QuickSort/OptimizedQuickSort.cpp.o
 
-.PHONY : QuickSort/QuickSort.o
+.PHONY : QuickSort/OptimizedQuickSort.o
 
 # target to build an object file
-QuickSort/QuickSort.cpp.o:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o
-.PHONY : QuickSort/QuickSort.cpp.o
+QuickSort/OptimizedQuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o
+.PHONY : QuickSort/OptimizedQuickSort.cpp.o
 
-QuickSort/QuickSort.i: QuickSort/QuickSort.cpp.i
+QuickSort/OptimizedQuickSort.i: QuickSort/OptimizedQuickSort.cpp.i
 
-.PHONY : QuickSort/QuickSort.i
+.PHONY : QuickSort/OptimizedQuickSort.i
 
 # target to preprocess a source file
-QuickSort/QuickSort.cpp.i:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.i
-.PHONY : QuickSort/QuickSort.cpp.i
+QuickSort/OptimizedQuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.i
+.PHONY : QuickSort/OptimizedQuickSort.cpp.i
 
-QuickSort/QuickSort.s: QuickSort/QuickSort.cpp.s
+QuickSort/OptimizedQuickSort.s: QuickSort/OptimizedQuickSort.cpp.s
 
-.PHONY : QuickSort/QuickSort.s
+.PHONY : QuickSort/OptimizedQuickSort.s
 
 # target to generate assembly for a file
-QuickSort/QuickSort.cpp.s:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.s
-.PHONY : QuickSort/QuickSort.cpp.s
+QuickSort/OptimizedQuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.s
+.PHONY : QuickSort/OptimizedQuickSort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... QuickSort/QuickSort.o"
-	@echo "... QuickSort/QuickSort.i"
-	@echo "... QuickSort/QuickSort.s"
+	@echo "... QuickSort/OptimizedQuickSort.o"
+	@echo "... QuickSort/OptimizedQuickSort.i"
+	@echo "... QuickSort/OptimizedQuickSort.s"
 .PHONY : help
 
 

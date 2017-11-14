@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o"
+  "CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o"
   "Codeforces.pdb"
   "Codeforces"
 )

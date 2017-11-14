@@ -1,15 +1,15 @@
 //
-// Created by Macbook on 13.11.17.
+// Created by Macbook on 14.11.17.
 //
 
 #include <iostream>
 
 using namespace std;
 
-void swap(int *a, int *b)
+void swap( int* a, int* b)
 {
     int t = *a;
-    *a = * b;
+    *a = *b;
     *b = t;
 }
 
@@ -30,17 +30,6 @@ int partition(int arr[], int low, int high)
     return i;
 }
 
-void quickSort(int arr[], int low, int high)
-{
-    if (low < high)
-    {
-        int pi = partition(arr, low, high);
-
-        quickSort(arr, low, pi - 1);
-        quickSort(arr, pi + 1, high);
-    }
-}
-
 void printArray(int arr[], int size)
 {
     int i;
@@ -49,15 +38,33 @@ void printArray(int arr[], int size)
     cout << endl;
 }
 
+// Problem: we want to decrease number of recursive calls and auxiliary space
+
+void optimizedQuickSort( int arr[], int low, int high)
+{
+    while (low < high)
+    {
+        int pi = partition(arr, low, high);
+
+        if (pi - low < high - pi)
+        {
+            optimizedQuickSort(arr, low, pi - 1);
+            low = pi + 1;
+        }
+
+        else
+        {
+            optimizedQuickSort(arr, pi + 1, high);
+            high = pi - 1;
+        }
+    }
+}
+
 int main()
 {
     int a[] = {7,8,6,5,9,3,4,5,1,2};
     int len = (sizeof(a)/sizeof(a[0]));
-    quickSort(a, 0, len - 1);
+    optimizedQuickSort(a, 0, len - 1);
 
     printArray(a, 10);
 }
-
-
-
-
