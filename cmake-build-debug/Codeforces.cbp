@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Macbook/Desktop/Codeforces/Binary_Search/Binary_search.h">
-			<Option target="Codeforces"/>
-		</Unit>
-		<Unit filename="/Users/Macbook/Desktop/Codeforces/Binary_Search/aggressive_cows.cpp">
+		<Unit filename="/Users/Macbook/Desktop/Codeforces/QuickSort/QuickSort.cpp">
 			<Option target="Codeforces"/>
 		</Unit>
 		<Unit filename="/Users/Macbook/Desktop/Codeforces/CMakeLists.txt">

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Macbook/Desktop/Codeforces/Binary_Search/aggressive_cows.cpp" "/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o"
+  "/Users/Macbook/Desktop/Codeforces/QuickSort/QuickSort.cpp" "/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

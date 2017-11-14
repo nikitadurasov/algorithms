@@ -57,38 +57,38 @@ include CMakeFiles/Codeforces.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codeforces.dir/flags.make
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o: CMakeFiles/Codeforces.dir/flags.make
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o: ../Binary_Search/aggressive_cows.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o -c /Users/Macbook/Desktop/Codeforces/Binary_Search/aggressive_cows.cpp
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o: CMakeFiles/Codeforces.dir/flags.make
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o: ../QuickSort/QuickSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o -c /Users/Macbook/Desktop/Codeforces/QuickSort/QuickSort.cpp
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macbook/Desktop/Codeforces/Binary_Search/aggressive_cows.cpp > CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.i
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macbook/Desktop/Codeforces/QuickSort/QuickSort.cpp > CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.i
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macbook/Desktop/Codeforces/Binary_Search/aggressive_cows.cpp -o CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.s
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macbook/Desktop/Codeforces/QuickSort/QuickSort.cpp -o CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.s
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.requires:
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.requires:
 
-.PHONY : CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.requires
+.PHONY : CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.requires
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.provides: CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.provides.build
-.PHONY : CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.provides
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.provides: CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.provides.build
+.PHONY : CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.provides
 
-CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.provides.build: CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o
+CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.provides.build: CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o
 
 
 # Object files for target Codeforces
 Codeforces_OBJECTS = \
-"CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o"
+"CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o"
 
 # External object files for target Codeforces
 Codeforces_EXTERNAL_OBJECTS =
 
-Codeforces: CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o
+Codeforces: CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o
 Codeforces: CMakeFiles/Codeforces.dir/build.make
 Codeforces: CMakeFiles/Codeforces.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Codeforces"
@@ -99,7 +99,7 @@ CMakeFiles/Codeforces.dir/build: Codeforces
 
 .PHONY : CMakeFiles/Codeforces.dir/build
 
-CMakeFiles/Codeforces.dir/requires: CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o.requires
+CMakeFiles/Codeforces.dir/requires: CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o.requires
 
 .PHONY : CMakeFiles/Codeforces.dir/requires
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o"
+  "CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o"
   "Codeforces.pdb"
   "Codeforces"
 )

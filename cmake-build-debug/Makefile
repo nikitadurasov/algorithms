@@ -123,32 +123,32 @@ Codeforces/fast:
 	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/build
 .PHONY : Codeforces/fast
 
-Binary_Search/aggressive_cows.o: Binary_Search/aggressive_cows.cpp.o
+QuickSort/QuickSort.o: QuickSort/QuickSort.cpp.o
 
-.PHONY : Binary_Search/aggressive_cows.o
+.PHONY : QuickSort/QuickSort.o
 
 # target to build an object file
-Binary_Search/aggressive_cows.cpp.o:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.o
-.PHONY : Binary_Search/aggressive_cows.cpp.o
+QuickSort/QuickSort.cpp.o:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.o
+.PHONY : QuickSort/QuickSort.cpp.o
 
-Binary_Search/aggressive_cows.i: Binary_Search/aggressive_cows.cpp.i
+QuickSort/QuickSort.i: QuickSort/QuickSort.cpp.i
 
-.PHONY : Binary_Search/aggressive_cows.i
+.PHONY : QuickSort/QuickSort.i
 
 # target to preprocess a source file
-Binary_Search/aggressive_cows.cpp.i:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.i
-.PHONY : Binary_Search/aggressive_cows.cpp.i
+QuickSort/QuickSort.cpp.i:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.i
+.PHONY : QuickSort/QuickSort.cpp.i
 
-Binary_Search/aggressive_cows.s: Binary_Search/aggressive_cows.cpp.s
+QuickSort/QuickSort.s: QuickSort/QuickSort.cpp.s
 
-.PHONY : Binary_Search/aggressive_cows.s
+.PHONY : QuickSort/QuickSort.s
 
 # target to generate assembly for a file
-Binary_Search/aggressive_cows.cpp.s:
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/Binary_Search/aggressive_cows.cpp.s
-.PHONY : Binary_Search/aggressive_cows.cpp.s
+QuickSort/QuickSort.cpp.s:
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/QuickSort.cpp.s
+.PHONY : QuickSort/QuickSort.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... Codeforces"
-	@echo "... Binary_Search/aggressive_cows.o"
-	@echo "... Binary_Search/aggressive_cows.i"
-	@echo "... Binary_Search/aggressive_cows.s"
+	@echo "... QuickSort/QuickSort.o"
+	@echo "... QuickSort/QuickSort.i"
+	@echo "... QuickSort/QuickSort.s"
 .PHONY : help
 
 
