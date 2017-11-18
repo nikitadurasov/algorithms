@@ -2,7 +2,7 @@
 
 * Binary Search (Done): [tutorial with implementation](http://geeksquiz.com/binary-search/), [problem](http://www.spoj.com/problems/AGGRCOW)
 * Quicksort (Done): [tutorial with implementation](http://www.geeksforgeeks.org/quick-sort/)
-* Merge Sort: [tutorial with implementation](http://www.geeksforgeeks.org/merge-sort/)
+* Merge Sort (Done): [tutorial with implementation](http://www.geeksforgeeks.org/merge-sort/)
 * Suffix Array: [tutorial with implementation](https://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays), [tutorial with implementation](https://apps.topcoder.com/forums/;jsessionid=BC99925E58CB2628CA9AA3AFC13F6593?module=Thread&start=0&threadID=627379), [problem](http://www.spoj.com/problems/SUBST1/), [problem](https://www.codechef.com/problems/MOU1H), [problem](https://www.codechef.com/problems/TASTR)
 * Knuth-Morris-Pratt Algorithm (KMP): [tutorial with implementation](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm), [problem](https://www.codechef.com/problems/TASHIFT),[problem](https://www.codechef.com/problems/KAN13C), [problem](https://www.codechef.com/problems/TRSUBTR)
 * Rabin-Karp Algorithm: [tutorial with implementation](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/), [problem](https://www.codechef.com/problems/SSTORY), [problem](http://codeforces.com/problemset/problem/271/D)
