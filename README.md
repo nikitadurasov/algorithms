@@ -56,3 +56,8 @@
 * Bucket Sort: [tutorial](http://www.geeksforgeeks.org/bucket-sort-2/)
 * Johnson's Algorithm: [tutorial](http://www.geeksforgeeks.org/johnsons-algorithm/), [implementation](https://gist.github.com/ashleyholman/6793360)
 * Maximal Matching in a General Graph: [Blossom/Edmond's Algorithm with implementation](http://e-maxx.ru/algo/matching_edmonds), [Tutte Matrix](http://e-maxx.ru/algo/tutte_matrix), [problem](http://www.codechef.com/problems/SEAGRP)
+
+Leetcode problems:
+* https://pastebin.com/raw/21J58NDh
+* https://vk.cc/7gmPHm
+* https://vk.cc/7gmSJ5
