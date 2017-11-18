@@ -4,7 +4,7 @@ project(Codeforces)
 set(CMAKE_CXX_STANDARD 14)
 
 set(SOURCE_FILES)
-add_executable(Codeforces ${SOURCE_FILES} QuickSort/OptimizedQuickSort.cpp)
+add_executable(Codeforces ${SOURCE_FILES} MergeSort/MergeSort.cpp)
 
 
 

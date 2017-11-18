@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Macbook/Desktop/Codeforces/QuickSort/OptimizedQuickSort.cpp">
+		<Unit filename="/Users/Macbook/Desktop/Codeforces/MergeSort/MergeSort.cpp">
 			<Option target="Codeforces"/>
 		</Unit>
 		<Unit filename="/Users/Macbook/Desktop/Codeforces/CMakeLists.txt">

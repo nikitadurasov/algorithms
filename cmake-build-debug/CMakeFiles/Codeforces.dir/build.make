@@ -57,38 +57,38 @@ include CMakeFiles/Codeforces.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codeforces.dir/flags.make
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o: CMakeFiles/Codeforces.dir/flags.make
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o: ../QuickSort/OptimizedQuickSort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o -c /Users/Macbook/Desktop/Codeforces/QuickSort/OptimizedQuickSort.cpp
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o: CMakeFiles/Codeforces.dir/flags.make
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o: ../MergeSort/MergeSort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o -c /Users/Macbook/Desktop/Codeforces/MergeSort/MergeSort.cpp
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macbook/Desktop/Codeforces/QuickSort/OptimizedQuickSort.cpp > CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.i
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Macbook/Desktop/Codeforces/MergeSort/MergeSort.cpp > CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.i
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macbook/Desktop/Codeforces/QuickSort/OptimizedQuickSort.cpp -o CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.s
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Macbook/Desktop/Codeforces/MergeSort/MergeSort.cpp -o CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.s
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.requires:
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.requires:
 
-.PHONY : CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.requires
+.PHONY : CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.requires
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.provides: CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.provides.build
-.PHONY : CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.provides
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.provides: CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Codeforces.dir/build.make CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.provides.build
+.PHONY : CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.provides
 
-CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.provides.build: CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o
+CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.provides.build: CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o
 
 
 # Object files for target Codeforces
 Codeforces_OBJECTS = \
-"CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o"
+"CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o"
 
 # External object files for target Codeforces
 Codeforces_EXTERNAL_OBJECTS =
 
-Codeforces: CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o
+Codeforces: CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o
 Codeforces: CMakeFiles/Codeforces.dir/build.make
 Codeforces: CMakeFiles/Codeforces.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Macbook/Desktop/Codeforces/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Codeforces"
@@ -99,7 +99,7 @@ CMakeFiles/Codeforces.dir/build: Codeforces
 
 .PHONY : CMakeFiles/Codeforces.dir/build
 
-CMakeFiles/Codeforces.dir/requires: CMakeFiles/Codeforces.dir/QuickSort/OptimizedQuickSort.cpp.o.requires
+CMakeFiles/Codeforces.dir/requires: CMakeFiles/Codeforces.dir/MergeSort/MergeSort.cpp.o.requires
 
 .PHONY : CMakeFiles/Codeforces.dir/requires
 

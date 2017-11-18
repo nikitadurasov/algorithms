@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/Macbook/Desktop/Codeforces/QuickSort/OptimizedQuickSort.cpp
-iostream
+/Users/Macbook/Desktop/Codeforces/MergeSort/MergeSort.cpp
+stdlib.h
+-
+stdio.h
+-
+algorithm
 -
 
